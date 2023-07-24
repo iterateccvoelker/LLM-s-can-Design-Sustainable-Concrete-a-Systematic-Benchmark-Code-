@@ -1,0 +1,6 @@
+langchain
+pandas
+transformers
+python-dotenv
+sentencepiece
+

@@ -1,0 +1,19 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 390, wc = 0.5, materials = 0.6/0.4, curing = Heat curing",59.86
+"The formulation is Powderkg = 420, wc = 0.5, materials = 0.7/0.3, curing = Heat curing",43.5
+"The formulation is Powderkg = 400, wc = 0.55, materials = 0.5/0.5, curing = Heat curing.",51.54
+"The formulation is Powderkg = 410, wc = 0.45, materials = 0.6/0.4, curing = Heat curing.",58.29
+"The formulation is Powderkg = 430, wc = 0.5, materials = 0.7/0.3, curing = Ambient curing.",38.43
+"The formulation is Powderkg = 380, wc = 0.55, materials = 0.5/0.5, curing = Ambient curing.",49.86
+"My new suggestion for an improved concrete formulation is as follows:
+
+The formulation is Powderkg = 440, wc = 0.6, materials = 0.7/0.3, curing = Heat curing.",28.65
+"Apologies for the previous suggestion, let's try a new formulation to improve the compressive strength. 
+
+The formulation is Powderkg = 410, wc = 0.45, materials = 0.5/0.5, curing = Heat curing.",58.24
+"I apologize for the limitations of the model. Here's another suggestion for an improved concrete formulation:
+
+The formulation is Powderkg = 430, wc = 0.5, materials = 0.6/0.4, curing = Ambient curing.",51.04
+"I apologize for any confusion caused. Here's a unique and unvalidated suggestion for an improved concrete formulation:
+
+The formulation is Powderkg = 420, wc = 0.55, materials = 0.6/0.4, curing = Heat curing.",58.93

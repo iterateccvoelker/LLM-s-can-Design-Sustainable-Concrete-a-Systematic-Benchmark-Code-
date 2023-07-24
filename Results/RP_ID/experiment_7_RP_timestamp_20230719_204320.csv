@@ -1,0 +1,4 @@
+Idx_Sample,Powderkg,Liquidkg,WC,Admixturekg,Aggregateskg,Fly_Ash_ratio,GGBFS_ratio,temperature,fc_28dGroundTruth
+110.0,430.0,236.5,0.55,17.2,1717.5,0.6,0.4,25.0,43.71
+82.0,360.0,198.0,0.55,14.4,1826.0,0.6,0.4,25.0,46.87
+53.0,390.0,195.0,0.5,15.6,1799.0,0.5,0.5,60.0,64.76
