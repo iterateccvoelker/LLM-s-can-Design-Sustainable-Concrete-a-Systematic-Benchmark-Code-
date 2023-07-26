@@ -1,0 +1,15 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 420, wc = 0.5, materials = 0.7/0.3, curing = Heat curing",43.5
+"The formulation is Powderkg = 410, wc = 0.55, materials = 0.6/0.4, curing = Ambient curing.",45.02
+"The formulation is Powderkg = 440, wc = 0.6, materials = 0.5/0.5, curing = Ambient curing.",47.61
+"The formulation is Powderkg = 400, wc = 0.5, materials = 0.7/0.3, curing = Heat curing.",43.19
+"The formulation is Powderkg = 430, wc = 0.45, materials = 0.6/0.4, curing = Heat curing.",58.03
+"The formulation is Powderkg = 450, wc = 0.5, materials = 0.5/0.5, curing = Heat curing.",61.9
+"The formulation is Powderkg = 390, wc = 0.55, materials = 0.7/0.3, curing = Ambient curing.",28.6
+"The formulation is Powderkg = 430, wc = 0.5, materials = 0.6/0.4, curing = Heat curing.",61.95
+"Based on the previous results and the general design knowledge, my next suggestion for the best concrete formulation that maximizes compressive strength is:
+
+The formulation is Powderkg = 380, wc = 0.5, materials = 0.7/0.3, curing = Heat curing.",42.88
+"Based on the previous results and the general design knowledge, my unique suggestion for the best concrete formulation that could potentially maximize compressive strength is:
+
+The formulation is Powderkg = 450, wc = 0.45, materials = 0.6/0.4, curing = Heat curing.",56.56
