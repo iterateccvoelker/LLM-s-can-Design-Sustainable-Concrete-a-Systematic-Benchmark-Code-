@@ -59,4 +59,4 @@ def preprocess_interpolation_data():
 
 if __name__ == '__main__':
     train, test = preprocess_interpolation_data()
-    print(train)
+    train.to_csv('train_samples.csv', index=False)
