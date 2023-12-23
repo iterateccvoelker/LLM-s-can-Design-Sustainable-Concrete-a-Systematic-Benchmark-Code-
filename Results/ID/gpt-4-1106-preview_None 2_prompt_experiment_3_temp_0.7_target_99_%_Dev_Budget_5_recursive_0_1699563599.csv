@@ -1,0 +1,10 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 400, wc = 0.45, materials = 0.7/0.3, curing = Heat curing",40.78
+"The formulation is Powderkg = 420, wc = 0.45, materials = 0.5/0.5, curing = Heat curing",57.54
+"The formulation is Powderkg = 430, wc = 0.45, materials = 0.6/0.4, curing = Heat curing",58.03
+"The formulation is Powderkg = 440, wc = 0.45, materials = 0.5/0.5, curing = Heat curing",55.78
+"Considering the previous results and aiming to improve upon the compressive strength, let's analyze the trends. The highest strength achieved was with a powder content of 430 kg and a water-to-cement ratio of 0.45, using a 0.6/0.4 ratio of Fly-Ash to GGBFS, and heat curing. To push the boundaries, we could increase the powder content slightly and adjust the materials ratio for potentially better performance.
+
+The formulation is Powderkg = 450, wc = 0.45, materials = 0.7/0.3, curing = Heat curing
+
+This formulation increases the powder content to the maximum of the provided range and uses the materials ratio that previously provided a strong result at a lower powder content. The heat curing method is retained due to its success in prior tests.",38.63

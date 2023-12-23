@@ -1,0 +1,11 @@
+Formulation,Compressive Strength
+"Powderkg = 400, wc = 0.45, materials = 0.7/0.3, curing = Heat",40.59
+"Powderkg = 440, wc = 0.55, materials = 0.5/0.5, curing = Heat",52.93
+"Powderkg = 380, wc = 0.55, materials = 0.5/0.5, curing = Heat",51.92
+"Powderkg = 450, wc = 0.6, materials = 0.5/0.5, curing = Heat",52.4
+"Powderkg = 450, wc = 0.45, materials = 0.7/0.3, curing = Heat",41.53
+"Powderkg = 410, wc = 0.55, materials = 0.5/0.5, curing = Heat",51.54
+"Powderkg = 440, wc = 0.6, materials = 0.6/0.4, curing = Heat",52.13
+"Powderkg = 370, wc = 0.6, materials = 0.6/0.4, curing = Heat",51.98
+"Powderkg = 400, wc = 0.6, materials = 0.6/0.4, curing = Heat",55.78
+"Powderkg = 430, wc = 0.6, materials = 0.7/0.3, curing = Ambient",25.5

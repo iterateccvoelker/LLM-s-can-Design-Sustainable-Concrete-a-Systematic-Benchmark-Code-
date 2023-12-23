@@ -1,0 +1,12 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 400, wc = 0.5, materials = 0.5/0.5, curing = Ambient",60.18
+"The formulation is Powderkg = 420, wc = 0.45, materials = 0.5/0.5, curing = Heat",57.54
+"The formulation is Powderkg = 430, wc = 0.45, materials = 0.5/0.5, curing = Heat",56.66
+"The formulation is Powderkg = 440, wc = 0.45, materials = 0.5/0.5, curing = Heat",55.78
+"Considering that the previous results indicate a decrease in compressive strength with an increase in powder content beyond 420 kg when heat curing is applied, and given that the highest strength achieved with ambient curing was with 400 kg of powder, it seems that the range between 400 and 420 kg is optimal for both curing methods. Furthermore, the W/C ratio of 0.45 in heat curing did not result in higher strength than a W/C ratio of 0.5 in ambient curing. Therefore, a distinctive and unconfirmed approach would be to test the lower end of the powder content spectrum while maintaining the optimal W/C ratio and material blend.
+
+Based on these insights, I recommend the following bold formulation, expecting that the lower powder content might provide an unexpected increase in strength due to better curing efficiency or other factors not yet fully understood:
+
+The formulation is Powderkg = 360, wc = 0.5, materials = 0.5/0.5, curing = Ambient
+
+This recommendation pushes the boundary by testing the lowest powder content in the given range with the previously established optimal W/C ratio and material blend under ambient curing conditions.",59.79

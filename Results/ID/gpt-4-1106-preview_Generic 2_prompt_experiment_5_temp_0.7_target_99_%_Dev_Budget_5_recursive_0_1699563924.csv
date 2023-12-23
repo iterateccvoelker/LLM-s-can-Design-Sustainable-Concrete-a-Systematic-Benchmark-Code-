@@ -1,0 +1,38 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 450, wc = 0.45, materials = 0.5/0.5, curing = Heat curing",54.97
+"Given the current understanding of the parameters and the results from the previous test, where a high powder content and a low water-to-cement ratio combined with an equal FA/GGBFS ratio and heat curing yielded a high compressive strength, let's propose a mix that slightly adjusts these parameters to explore the upper bounds of performance.
+
+Since we have already tested the highest powder content (450 kg) with the lowest WC ratio (0.45) and an equal FA/GGBFS ratio (0.5/0.5), let's adjust the powder content to a slightly lower value to see if there is an optimal range just below the maximum. We will also maintain heat curing due to its positive effect on compressive strength.
+
+The formulation is Powderkg = 440, wc = 0.45, materials = 0.5/0.5, curing = Heat curing.
+
+This recommendation attempts to fine-tune the already high-performing mix to see if a marginally lower powder content maintains or enhances the compressive strength.",55.78
+"To push the boundaries and aim for an even higher compressive strength, we must consider the interactions of the parameters within the provided grid. Given that we have seen success with a lower water-to-cement ratio and a balanced FA/GGBFS ratio, along with heat curing, let's explore an adjustment in the powder content while keeping other parameters that have shown promise.
+
+Since the previous high-performing mix used the highest powder content of 450 kg, let's maintain a high powder content but not the maximum, to see if there is an optimal point where the powder content still contributes to strength but may also enhance other properties or efficiencies. We'll select 440 kg to slightly reduce the powder content while keeping the other parameters that have contributed to strength.
+
+The formulation is Powderkg = 440, wc = 0.45, materials = 0.6/0.4, curing = Heat curing.
+
+By adjusting the FA/GGBFS ratio to incorporate a bit more Fly Ash, we're testing whether the slight increase in Fly Ash, which has a lower pozzolanic activity compared to GGBFS, will still allow us to achieve a high compressive strength when combined with a high powder content and efficient heat curing. This formulation is",57.27
+"Given the existing data and the goal to push the boundaries further, I will recommend a mix that has not yet been confirmed and is distinctive from the previous high-performing mixes.
+
+We know from the general design knowledge that:
+- A higher FA/GGBFS ratio might necessitate a higher WC ratio for better workability.
+- A higher powder content might demand heat curing for complete geopolymerization.
+- Heat curing generally improves compressive strength.
+- Increasing the powder content tends to improve compressive strength but must be balanced with workability and curing method.
+
+Considering these factors and the results from the previous tests, let's propose a formulation that adjusts the FA/GGBFS ratio towards more GGBFS, which has better pozzolanic activity, while slightly increasing the WC ratio to ensure workability. We will also select a powder content that is high but not the maximum tested, to explore the interplay between powder content and the adjusted FA/GGBFS ratio. Heat curing will be maintained to maximize strength gains.
+
+The formulation is Powderkg = 430, wc = 0.5, materials = 0.6/0.4, curing = Heat curing.
+
+This recommendation is bold in the sense that it increases the WC ratio slightly",61.95
+"To reach for an even higher compressive strength and provide a distinctive recommendation that has not yet been confirmed, let's integrate the insights gained from previous results with a bold new approach. We will carefully adjust the formulation to explore areas of the parameter space that might offer untapped potential.
+
+General design knowledge suggests that a lower WC ratio can improve strength, and previous results have shown that a balanced FA/GGBFS ratio with heat curing can yield good results. However, we have seen that increasing the WC ratio slightly can still result in high compressive strength when other factors are optimized.
+
+Let's propose a mix that combines a relatively high powder content with a balanced FA/GGBFS ratio, which has not been tested at a higher WC ratio in conjunction with heat curing to promote complete geopolymerization. This approach is bold as it slightly increases the WC ratio, which traditionally would be expected to reduce strength, but we hypothesize that the other components of the mix will compensate for this and lead to an even greater compressive strength.
+
+The formulation is Powderkg = 430, wc = 0.55, materials = 0.5/0.5, curing = Heat curing.
+
+This recommendation is distinctive and explores a higher water-to-cement ratio",51.92

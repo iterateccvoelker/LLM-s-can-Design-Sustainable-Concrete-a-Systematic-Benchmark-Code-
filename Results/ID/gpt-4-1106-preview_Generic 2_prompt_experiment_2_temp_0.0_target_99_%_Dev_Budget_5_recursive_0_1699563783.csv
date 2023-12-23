@@ -1,0 +1,12 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 450, wc = 0.45, materials = 0.5/0.5, curing = Heat curing",54.97
+"The formulation is Powderkg = 440, wc = 0.45, materials = 0.6/0.4, curing = Heat curing",57.27
+"The formulation is Powderkg = 430, wc = 0.45, materials = 0.7/0.3, curing = Heat curing",39.8
+"Based on the previous results and the general design knowledge, it seems that a higher GGBFS content and a lower water-to-cement ratio contribute positively to the compressive strength. Given that we have already tested the highest powder content with a WC ratio of 0.45 and varying FA/GGBFS ratios, let's try to adjust the powder content slightly lower while maintaining the other parameters that yielded the highest strength so far.
+
+The formulation is Powderkg = 440, wc = 0.45, materials = 0.5/0.5, curing = Heat curing
+
+This recommendation aims to balance the benefits of a high powder content with the enhanced pozzolanic activity of a balanced FA/GGBFS ratio, all while ensuring the mix is not too wet, which could weaken the matrix. Heat curing is maintained to promote faster geopolymerization. This formulation is distinctive from the previous high-performing mix and should provide a valuable data point in our search for the optimal solution.",55.78
+"The formulation is Powderkg = 420, wc = 0.45, materials = 0.6/0.4, curing = Heat curing
+
+This recommendation is designed to explore the space between our highest performing mix and the other high-strength options. By selecting a powder content of 420 kg, we are slightly reducing the density compared to the previous best mix, which may help in identifying the threshold where the powder content's contribution to compressive strength begins to plateau. The water-to-cement ratio is kept low to maintain a strong cementitious matrix, and the materials ratio is adjusted to 0.6/0.4 to investigate the impact of a slightly higher fly ash content while still benefiting from the strength contributions of GGBFS. Heat curing is chosen to ensure rapid geopolymerization. This formulation is unique and has not been tested yet, providing a fresh data point to refine our understanding of the optimal mix design.",58.8

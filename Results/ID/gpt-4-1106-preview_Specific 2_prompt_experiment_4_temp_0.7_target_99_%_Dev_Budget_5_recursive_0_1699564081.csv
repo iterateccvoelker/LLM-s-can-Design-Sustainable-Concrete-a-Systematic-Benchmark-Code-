@@ -1,0 +1,25 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 400, wc = 0.5, materials = 0.5/0.5, curing = Ambient",60.18
+"The formulation is Powderkg = 420, wc = 0.45, materials = 0.5/0.5, curing = Heat",57.54
+"Based on previous results and the general design principles, it is evident that a Powder content of 400 kg and a water-to-cement (WC) ratio of 0.5 with a materials ratio of 0.5/0.5 has resulted in a high compressive strength under ambient curing conditions. To push the boundaries further and recommend a distinctive and untested formulation that could potentially yield even higher compressive strength, we will make a slight adjustment.
+
+Given that heat curing can potentially enhance the strength at a higher powder content, and we have not yet tested the combination of a WC ratio of 0.5 with a powder content of 420 kg under heat curing, this seems to be a promising avenue to explore.
+
+The formulation is Powderkg = 420, wc = 0.5, materials = 0.5/0.5, curing = Heat
+
+This formulation is expected to leverage the benefits of heat curing to further improve the compressive strength of the concrete by accelerating the geopolymerization process, while maintaining the optimal water-to-cement ratio and balanced material ratio that has previously shown to be effective.",60.38
+"Given the previous successes and aiming to push the envelope further, we will explore a high-end powder content that has not been tested yet with the optimal water-to-cement ratio and materials ratio under heat curing conditions. Considering the parameters, let's opt for a slightly higher powder content than previously tested to see if we can enhance the compressive strength through better particle packing and accelerated geopolymerization, while keeping the other factors constant at their optimal values.
+
+The formulation is Powderkg = 450, wc = 0.5, materials = 0.5/0.5, curing = Heat
+
+This unique and untested formulation is expected to push the boundaries by utilizing the highest allowable powder content to potentially increase the density and strength of the concrete, balanced with the optimal water-to-cement ratio and materials ratio, all enhanced by the heat curing process.",61.9
+"The results we've obtained so far indicate that higher powder content combined with the right WC ratio and materials balance, especially under heat curing, can yield substantial compressive strength. To provide an outstanding and bold recommendation that is distinct from prior formulations, let's consider the following rationale:
+
+- Although we've had success with a powder content of 450 kg, we have not yet explored the lower end of the powder content spectrum with the optimal WC and materials ratios under heat curing conditions.
+- A lower powder content could potentially yield a strong concrete mix if the balance between workability, particle packing, and geopolymerization is carefully maintained.
+
+Given this, let's propose a lower-end powder content that has not been previously tested, while keeping the WC ratio and materials ratio constant at their proven optimal values, and applying heat curing to accelerate the geopolymerization process. Here is the bold recommendation:
+
+The formulation is Powderkg = 360, wc = 0.5, materials = 0.5/0.5, curing = Heat
+
+This formulation is unique and untested and is expected to explore the impact of reduced powder content on the compressive strength when all other factors are held at their optimal conditions. The heat curing could compensate for the",65.26
