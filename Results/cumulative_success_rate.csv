@@ -1,0 +1,22 @@
+;1st;2nd;3rd;4th;5th;6th;7th;8th;9th;10th
+gpt-3.5-turbo, Context. Qual.: None, Temp.: 0.0, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-3.5-turbo, Context. Qual.: None, Temp.: 0.0, Increased TT: 1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-3.5-turbo, Context. Qual.: None, Temp.: 0.7, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-3.5-turbo, Context. Qual.: None, Temp.: 0.7, Increased TT: 1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-4-1106-preview, Context. Qual.: None, Temp.: 0.0, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;;;;;
+gpt-4-1106-preview, Context. Qual.: None, Temp.: 0.7, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;;;;;
+gpt-3.5-turbo, Context. Qual.: Generic, Temp.: 0.0, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-3.5-turbo, Context. Qual.: Generic, Temp.: 0.0, Increased TT: 1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-3.5-turbo, Context. Qual.: Generic, Temp.: 0.7, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-3.5-turbo, Context. Qual.: Generic, Temp.: 0.7, Increased TT: 1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,48;2,67
+gpt-4-1106-preview, Context. Qual.: Generic, Temp.: 0.0, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;;;;;
+gpt-4-1106-preview, Context. Qual.: Generic, Temp.: 0.7, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;;;;;
+gpt-3.5-turbo, Context. Qual.: Specific, Temp.: 0.0, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-3.5-turbo, Context. Qual.: Specific, Temp.: 0.0, Increased TT: 1;0,0;0,0;0,0;0,0;0,0;0,0;0,71;1,25;1,67;2,0
+gpt-3.5-turbo, Context. Qual.: Specific, Temp.: 0.7, Increased TT: 0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-3.5-turbo, Context. Qual.: Specific, Temp.: 0.7, Increased TT: 1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+gpt-4-1106-preview, Context. Qual.: Specific, Temp.: 0.0, Increased TT: 0;0,0;0,0;0,0;0,0;1,33;;;;;
+gpt-4-1106-preview, Context. Qual.: Specific, Temp.: 0.7, Increased TT: 0;0,0;0,0;0,0;0,0;1,33;;;;;
+Baseline Method: BO;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0
+Baseline Method: RF;0,0;1,67;2,22;2,5;4,67;7,78;10,0;11,67;12,96;15,0
+Baseline Method: RP;0,0;1,67;2,22;3,33;4,0;4,44;4,76;5,0;5,19;5,33
