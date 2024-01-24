@@ -1,0 +1,18 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 400, wc = 0.5, materials = 0.5/0.5, curing = Ambient",60.18
+"The formulation is Powderkg = 420, wc = 0.45, materials = 0.5/0.5, curing = Heat",57.54
+"Based on the previous results and the general design principles, let's push the boundaries with a new recommendation that hasn't been confirmed yet. Considering that an increase in powder content generally increases strength and that the optimal water-to-cement ratio is around 0.5, we could explore the higher end of the powder content spectrum under heat curing to leverage the hastened geopolymerization process. Additionally, maintaining the FA/GGBFS ratio at 0.5/0.5 should provide the best results due to the beneficial effects of GGBFS. Here's a bold yet unconfirmed formulation:
+
+The formulation is Powderkg = 440, wc = 0.5, materials = 0.5/0.5, curing = Heat
+
+This recommendation aims to explore the effects of increasing the powder content while maintaining the optimal WC ratio and material blend, all under heat curing conditions that may further enhance the compressive strength of the concrete.",62.65
+"Based on previous successful formulations and the need to push the boundaries further, we will explore the upper limits of the powder content while adhering to the identified optimal water-to-cement ratio and materials blend. We'll also use heat curing to accelerate the geopolymerization process, which may further improve compressive strength.
+
+The formulation is Powderkg = 450, wc = 0.5, materials = 0.5/0.5, curing = Heat
+
+This proposal is bold as it tests the highest powder content within the given parameters combined with the optimal WC ratio and a balanced FA/GGBFS ratio, all under heat curing which has not been confirmed before. It is expected to potentially yield the highest compressive strength achievable with the given constraints.",61.9
+"Building on the previous successful formulations, but striving for an even more impressive result, we will push the boundaries further. Considering the principles that a higher powder content can lead to better compressive strength, and that the optimal w/c ratio is around 0.5, along with the best materials ratio of 0.5/0.5 for FA/GGBFS, let's explore the space that has not been confirmed yet under ambient curing conditions. This will allow us to see if we can achieve high strength without the need for heat curing. Thus, my bold, unconfirmed recommendation is:
+
+The formulation is Powderkg = 450, wc = 0.5, materials = 0.5/0.5, curing = Ambient
+
+This formulation tests the highest allowable powder content with the optimal water-to-cement ratio and materials blend, all under ambient curing conditions, which has not been confirmed before. It's a distinctive choice aimed at achieving high compressive strength without the energy costs associated with heat curing.",58.53

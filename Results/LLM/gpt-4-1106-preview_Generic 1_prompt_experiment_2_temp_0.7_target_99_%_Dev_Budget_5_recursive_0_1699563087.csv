@@ -1,0 +1,35 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 400, wc = 0.5, materials = 0.5/0.5, curing = Ambient",60.18
+"The formulation is Powderkg = 420, wc = 0.45, materials = 0.5/0.5, curing = Heat",57.54
+"Based on the past results and the design principles, to push the boundaries further and aim for an even higher compressive strength, I recommend the following distinctive and yet unconfirmed formulation:
+
+The formulation is Powderkg = 430, wc = 0.45, materials = 0.5/0.5, curing = Heat
+
+This recommendation takes into account:
+- The fact that heat curing can support a higher powder content, which in our case is set at 430 kg to potentially enhance the geopolymerization process and increase compressive strength.
+- The WC ratio of 0.45, which is on the lower end of the spectrum, should reduce porosity and increase density, thus potentially increasing strength.
+- The materials ratio of 0.5/0.5 balances the pozzolanic reaction and the strength benefits of GGBFS.
+- Heat curing is chosen to accelerate the geopolymerization process, which could be beneficial given the slightly higher powder content than the previously best-performing mix.
+
+This formulation is bold yet within the confines of the established principles and previous empirical data.",56.66
+"Considering the guidelines and the results we have obtained so far, we are aiming to push the boundaries even further. Based on the principles that higher powder content under heat curing conditions and a balanced water-to-cement ratio can improve the compressive strength, coupled with the fact that a 0.5/0.5 ratio of Fly-Ash to GGBFS presents a good balance for strength, the following bold and untested formulation is proposed:
+
+The formulation is Powderkg = 440, wc = 0.45, materials = 0.5/0.5, curing = Heat
+
+This recommendation is made on the basis of:
+- Increasing the powder content to 440 kg, which is expected to enhance the compressive strength even further under heat curing, as per the general design principles.
+- Maintaining a WC ratio of 0.45 to ensure low porosity and high density, which should contribute to an increase in strength.
+- Keeping the materials ratio of 0.5/0.5 for optimal synergy between Fly-Ash and GGBFS.
+- Continuing with heat curing to promote faster geopolymerization, taking advantage of the higher powder content.
+
+This formulation is bold and steps into uncharted territory, aiming to",55.78
+"The formulation is Powderkg = 440, wc = 0.45, materials = 0.7/0.3, curing = Heat
+
+This bold and distinct proposal is based on the following rationale:
+
+- A high powder content of 440 kg is anticipated to increase compressive strength, particularly under heat curing conditions that accelerate the geopolymerization process.
+- A water-to-cement (WC) ratio of 0.45, which is at the lower end of the spectrum, aiming to achieve a denser and less porous concrete matrix, potentially leading to higher compressive strength.
+- An adjusted Fly-Ash to GGBFS ratio of 0.7/0.3 is an innovative shift from the previously used equal ratio. This change is hypothesized to explore the boundaries of material composition and its effect on the compressive strength, considering Fly-Ash's role in the pozzolanic reaction.
+- Heat curing is chosen once again to expedite the chemical reactions and enhance the overall strength of the geopolymer concrete.
+
+This formulation has not been confirmed previously and presents an untested combination that could lead to achieving a new benchmark in compressive strength.",39.19

@@ -1,0 +1,14 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 430, wc = 0.45, materials = 0.7/0.3, curing = heat.",39.8
+"The formulation is Powderkg = 440, wc = 0.45, materials = 0.6/0.4, curing = heat.",57.27
+"The formulation is Powderkg = 450, wc = 0.45, materials = 0.5/0.5, curing = heat.",54.97
+"Given the previous results where the compressive strength was higher with a lower fly ash to GGBFS ratio and a higher powder content, I will adjust the parameters to explore a different area of the parameter grid. Let's try to increase the powder content slightly while adjusting the water-to-cement ratio for potential strength gain.
+
+The formulation is Powderkg = 440, wc = 0.5, materials = 0.7/0.3, curing = ambient.
+
+This recommendation aims to balance the water-to-cement ratio with a high powder content and a materials ratio that has previously shown promising results under heat curing. By switching to ambient curing, we are testing the robustness of this mix design in a less controlled curing environment, which is often the case in real-world applications.",38.66
+"Given the results and the requirement to be bold and distinctive, I will suggest a formulation that has not been tested yet, focusing on a high powder content and a more balanced fly ash to GGBFS ratio, along with a lower water-to-cement ratio to potentially increase compressive strength.
+
+The formulation is Powderkg = 450, wc = 0.45, materials = 0.6/0.4, curing = ambient.
+
+This formulation is designed to test the limits of powder content while still maintaining a relatively low water-to-cement ratio, which is known to enhance strength. The materials ratio is selected based on the previous success with a similar ratio under heat curing, but now we are challenging it under ambient curing to see if the strength can be maintained or even improved in a more typical curing environment.",45.88

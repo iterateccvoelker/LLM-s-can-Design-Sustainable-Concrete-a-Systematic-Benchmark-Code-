@@ -1,0 +1,12 @@
+Formulation,Compressive Strength
+"The formulation is Powderkg = 400, wc = 0.5, materials = 0.5/0.5, curing = Ambient",60.18
+"The formulation is Powderkg = 420, wc = 0.45, materials = 0.5/0.5, curing = Heat",57.54
+"The formulation is Powderkg = 440, wc = 0.45, materials = 0.5/0.5, curing = Heat",55.78
+"The formulation is Powderkg = 430, wc = 0.45, materials = 0.5/0.5, curing = Heat",56.66
+"Given the previous results, it's clear that a Powderkg of 400 with a wc ratio of 0.5, materials ratio of 0.5/0.5, and ambient curing provided the highest compressive strength at 60.18 MPa. To push the boundaries further while adhering to the general design principles and the provided grid, I recommend adjusting the powder content slightly higher under ambient curing conditions to see if we can enhance the compressive strength without compromising the workability and other properties.
+
+The next distinctive and yet to be confirmed proposal, which is expected to potentially improve the compressive strength, is as follows:
+
+The formulation is Powderkg = 410, wc = 0.5, materials = 0.5/0.5, curing = Ambient
+
+This recommendation slightly increases the powder content, which could possibly improve the particle packing and the pozzolanic reaction, potentially leading to a higher compressive strength while maintaining the optimal wc ratio and material blend that previously gave the best results. The ambient curing is chosen based on the success of the prior test and to avoid the complexities and additional costs associated with heat curing.",60.28
