@@ -35,14 +35,6 @@ In the context of a circular building material economy, the complexity of resour
        - Windows: `.<name_of_virtualenv>\Scripts\activate`
        - Unix/Mac: `source <name_of_virtualenv>/bin/activate`
      - Install dependencies: `pip3 install -r requirements.txt`
-   - **Using conda:**
-     - **On Linux:**
-       - Install Miniconda and run `conda env create -f environment.yml`
-       - Activate the new environment: `conda activate WEBSLAMD`
-     - **On Windows:**
-       - Install Anaconda or Miniconda.
-       - Open "Anaconda Prompt", navigate to your project folder and run `conda env create -f environment.yml`
-       - Activate the new environment: `conda activate WEBSLAMD` or through Anaconda Navigator.
 
 ### Usage Instructions:
 1. **Running Experiments:**
