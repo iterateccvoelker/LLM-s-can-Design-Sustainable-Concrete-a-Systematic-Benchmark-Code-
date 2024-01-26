@@ -1,11 +1,7 @@
-langchain
+sklearn
+lolopy
+numpy
 pandas
-transformers
-python-dotenv
-sentencepiece
-seaborn
-scikit-learn
-jupyterlab==3.6.4
 openai
+matplotlib
 ipywidgets
-
