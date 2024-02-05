@@ -1,9 +1,0 @@
-Formulation,Compressive Strength
-"The formulation is Powderkg = 400, wc = 0.5, materials = 0.5/0.5, curing = Ambient",60.18
-"Acknowledging the previous successful formulation and the principle that heat curing with a higher powder content can further enhance strength, I will propose a new, bold formulation that has not been confirmed yet. This will be a distinctive recommendation aimed at maximizing the compressive strength:
-
-The formulation is Powderkg = 450, wc = 0.45, materials = 0.5/0.5, curing = Heat
-
-This formulation pushes the powder content to the upper limit within the parameter grid, utilizes the lowest water-to-cement ratio for reduced porosity, maintains an equal FA/GGBFS ratio for optimal strength, and leverages heat curing to accelerate the geopolymerization process.",54.97
-"The formulation is Powderkg = 440, wc = 0.45, materials = 0.6/0.4, curing = Heat",57.27
-"The formulation is Powderkg = 430, wc = 0.45, materials = 0.7/0.3, curing = Heat",39.8
