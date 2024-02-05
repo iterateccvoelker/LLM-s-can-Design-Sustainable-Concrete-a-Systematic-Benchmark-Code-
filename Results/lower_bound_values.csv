@@ -1,0 +1,16 @@
+;1st;2nd;3rd;4th;5th;6th;7th;8th;9th;10th
+gpt-3.5-turbo, Context. Qual.: None, Temp.: 0.0, Increased TT: SFDL;33,83;53,79;58,06;58,06;58,06;58,06;58,06;58,06;58,06;58,06
+gpt-3.5-turbo, Context. Qual.: None, Temp.: 0.0, Increased TT: TT=3;33,81;53,79;53,79;53,79;53,79;53,79;53,79;54,97;54,97;54,97
+gpt-3.5-turbo, Context. Qual.: None, Temp.: 0.0, Increased TT: TT=5;27,77;48,91;54,38;54,38;54,38;54,38;58,2;58,2;58,2;58,2
+gpt-4-1106-preview, Context. Qual.: None, Temp.: 0.0, Increased TT: SFDL;38,63;57,12;57,27;57,27;58,03;58,03;58,96;58,98;58,98;58,98
+gpt-3.5-turbo, Context. Qual.: Generic, Temp.: 0.0, Increased TT: SFDL;54,97;54,97;54,97;54,97;54,97;55,82;55,82;55,82;55,82;55,82
+gpt-3.5-turbo, Context. Qual.: Generic, Temp.: 0.0, Increased TT: TT=3;38,63;53,79;54,38;58,24;58,24;58,24;58,24;59,73;60,47;60,47
+gpt-3.5-turbo, Context. Qual.: Generic, Temp.: 0.0, Increased TT: TT=5;29,46;54,97;54,97;57,04;61,0;61,3;61,3;61,3;61,3;61,3
+gpt-4-1106-preview, Context. Qual.: Generic, Temp.: 0.0, Increased TT: SFDL;54,97;57,27;57,27;57,27;57,27;57,27;57,27;57,27;57,27;57,27
+gpt-3.5-turbo, Context. Qual.: Specific, Temp.: 0.0, Increased TT: SFDL;60,18;60,18;60,18;60,18;60,18;60,28;62,21;62,29;62,29;62,29
+gpt-3.5-turbo, Context. Qual.: Specific, Temp.: 0.0, Increased TT: TT=3;54,97;58,06;58,06;58,06;61,61;61,61;61,61;61,61;62,15;62,15
+gpt-3.5-turbo, Context. Qual.: Specific, Temp.: 0.0, Increased TT: TT=5;38,63;55,82;55,82;58,53;61,51;61,51;61,51;61,61;61,61;61,61
+gpt-4-1106-preview, Context. Qual.: Specific, Temp.: 0.0, Increased TT: SFDL;60,18;60,18;60,18;60,18;60,18;60,18;60,28;60,38;60,38;62,1
+Baseline Method: BO;53,39;53,79;55,37;55,37;57,37;58,93;59,79;59,79;59,79;59,79
+Baseline Method: RF;43,32;47,7;52,0;55,55;56,64;57,52;58,75;58,93;59,85;60,37
+Baseline Method: RP;29,35;41,85;44,49;48,14;49,9;51,03;51,03;51,03;51,03;51,03
